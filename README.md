@@ -1,39 +1,38 @@
 # 👋 Hi, I'm Amirhosein
 
-**🧑‍💻 Programmer | 💻 Computer Enthusiast | 🌍 Language Learner | ⚽ Football | ♟️ Chess | 🎮 Gamer**
+**🧑‍💻 Programmer | 💻 Computer & Data Enthusiast | 🌍 Language Learner**
 
 ---
 
 ## ✨ About Me
 
 - 🔹 Passionate about learning and exploring new technologies
-- 🔹 Interested in **programming**, **computers**, **foreign languages** (English & French), **football**, **chess**, and **video games**
-- 🔹 Currently improving my **English** (Upper-Intermediate level)
+- 🔹 Interested in ``Programming``, ``Computers``, ``Foreign Languages``, ``Data Analysis``
+- 🔹 Currently improving my ``English`` & ``Data Analysis``
 
 ---
 
 ## 🤹 Skills
 
-- 🐍 **Python**
-- 🐘 **PHP**
-- ⚡ **JavaScript (basic knowledge)**
-- 🖥️ **C# (low level)**
-- 🔗 **API Development** with **Django REST Framework**
-- 🇺🇸 **English (Upper-Intermediate)**
+- 🐍 ``Python`` (**Numpy**, **Pandas**)
+- 🐘 ``PHP`` (**Dynamic Web pages**)
+- ⚡ ``JavaScript`` (**Basic Knowledge**)
+- 🖥️ ``C#`` (**low level**)
+- 🔗 ``API Development`` with **Django REST Framework**
+- 🇺🇸 ``English`` (**Upper-Intermediate**)
 
 ---
 
 ## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cs,django,git,github,windows,vscode,postman" alt="Technologies and tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,django,git,github,windows,vscode,postman" alt="Technologies and tools" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 </p>
