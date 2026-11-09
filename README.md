@@ -1,19 +1,18 @@
-# 👋 Hi, I'm Amirhosein Rezaie
+# 👋 Hi, I'm Amirhosein
 
 ### 💻 Python Developer | 📊 Data Analysis Enthusiast | 🌍 Lifelong Learner
 
 I'm a programmer passionate about technology, problem-solving, and continuous learning.
 
-I enjoy building projects, exploring data, and improving my programming skills. Currently, I'm focusing on **Python, Data Analysis, and expanding my knowledge of software development.**
+I enjoy building projects, exploring data, and improving my programming skills. Currently, I'm focusing on ``Python``, ``Data Analysis``, and expanding my knowledge of software development.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about programming and computer science.
-- 📊 Interested in Data Analysis and exploring data-driven insights.
-- 🐍 Mainly working with Python and its ecosystem.
-- 🌍 Improving my English and exploring foreign languages.
+- 💻 Interested in ``Data Analysis``, ``Programming`` and ``Computer Science``.
+- 🐍 Mainly working with ``Python`` and its ecosystem.
+- 🌍 Improving my ``English`` and exploring foreign languages.
 - 📚 Always learning new technologies and developing practical projects.
 
 ---
