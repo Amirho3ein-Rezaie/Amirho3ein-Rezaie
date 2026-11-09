@@ -1,50 +1,85 @@
-# 👋 Hi, I'm Amirhosein
+# 👋 Hi, I'm Amirhosein Rezaie
 
-**🧑‍💻 Programmer | 💻 Computer & Data Enthusiast | 🌍 Language Learner**
+### 💻 Python Developer | 📊 Data Analysis Enthusiast | 🌍 Lifelong Learner
 
----
+I'm a programmer passionate about technology, problem-solving, and continuous learning.
 
-## ✨ About Me
-
-- 🔹 Passionate about learning and exploring new technologies
-- 🔹 Interested in ``Programming``, ``Computers``, ``Foreign Languages``, ``Data Analysis``
-- 🔹 Currently improving my ``English`` & ``Data Analysis``
+I enjoy building projects, exploring data, and improving my programming skills. Currently, I'm focusing on **Python, Data Analysis, and expanding my knowledge of software development.**
 
 ---
 
-## 🤹 Skills
+## 🚀 About Me
 
-- 🐍 ``Python`` (**Numpy**, **Pandas**)
-- 🐘 ``PHP`` (**Dynamic Web pages**)
-- ⚡ ``JavaScript`` (**Basic Knowledge**)
-- 🖥️ ``C#`` (**low level**)
-- 🔗 ``API Development`` with **Django REST Framework**
-- 🇺🇸 ``English`` (**Upper-Intermediate**)
+- 💻 Passionate about programming and computer science.
+- 📊 Interested in Data Analysis and exploring data-driven insights.
+- 🐍 Mainly working with Python and its ecosystem.
+- 🌍 Improving my English and exploring foreign languages.
+- 📚 Always learning new technologies and developing practical projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+### 📊 Data Analysis & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
+### 🛠️ Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,django,git,github,windows,vscode,postman" alt="Technologies and tools" />
+  <img width="32%" height="160" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" />
+  <img width="32%" height="160" src="./profile/streak.svg" alt="GitHub Streak" />
+  <img width="32%" height="160" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Languages
 
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+- 🇮🇷 Persian — Native
+- 🇬🇧 English — Upper-Intermediate
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/amirhosein-rezaie">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ah.rezaie07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/userunknownone">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosein-rezaie)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ah.rezaie07@gmail.com)
-[![Chess.com](https://img.shields.io/badge/Chess.com-333?logo=chessdotcom&logoColor=white)](https://www.chess.com/member/Amirho3ien17)
-
----
-
-✨ Always learning, always growing ✨
+⭐ Learning by building, growing through experience.
