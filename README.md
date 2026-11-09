@@ -51,9 +51,11 @@ I enjoy building projects, exploring data, and improving my programming skills. 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="32%" height="160" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" />
-  <img width="32%" height="160" src="./profile/streak.svg" alt="GitHub Streak" />
-  <img width="32%" height="160" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
+  <img width="33%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" />
+  <img width="33%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img width="50%" src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
