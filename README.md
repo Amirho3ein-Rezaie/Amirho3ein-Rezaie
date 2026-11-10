@@ -8,7 +8,7 @@ I enjoy building projects, exploring data, and improving my programming skills. 
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💻 Interested in ``Data Analysis``, ``Programming`` and ``Computer Science``.
 - 🐍 Mainly working with ``Python`` and its ecosystem.
@@ -17,9 +17,9 @@ I enjoy building projects, exploring data, and improving my programming skills. 
 
 ---
 
-## 🧠 Skills & Technologies
+### 🧠 Skills & Technologies
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -28,7 +28,7 @@ I enjoy building projects, exploring data, and improving my programming skills. 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-### 📊 Data Analysis & Libraries
+#### 📊 Data Analysis & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -36,7 +36,7 @@ I enjoy building projects, exploring data, and improving my programming skills. 
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-### 🛠️ Frameworks & Tools
+#### 🛠️ Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -47,8 +47,9 @@ I enjoy building projects, exploring data, and improving my programming skills. 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img width="33%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Statistics" />
@@ -60,16 +61,16 @@ I enjoy building projects, exploring data, and improving my programming skills. 
 
 ---
 
-## 🌐 Languages
+### 🌐 Languages
 
 - 🇮🇷 Persian — Native
 - 🇬🇧 English — Upper-Intermediate
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/amirhosein-rezaie">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
